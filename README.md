@@ -295,4 +295,5 @@ MintLeaf/
 ---
 
 ## Portfolio Summary
-Co-developed a Java desktop application that allows users to explore stories from around the world using personalized recommendations, database-backed user accounts, search and filtering systems, multilingual reading tools, annotations, ratings, and community features. Implemented Java Swing interfaces, MySQL database integration, binary-tree recommendation structures, and collaborative software engineering practices throughout the development lifecycle. 
+Co-developed a Java desktop application that allows users to explore stories from around the world using personalized recommendations, database-backed user accounts, search and filtering systems, multilingual reading tools, annotations, ratings, and community features. 
+Implemented Java Swing interfaces, MySQL database integration, binary-tree recommendation structures, and collaborative software engineering practices throughout the development lifecycle.
