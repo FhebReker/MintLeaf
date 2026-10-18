@@ -1,11 +1,9 @@
 # MintLeaf - Tales Around the World
-
 A collaborative digital library platform developed as a Grade 12 Computer Science (ICS4U) Independent Study Project (ISP).
 
 MintLeaf is a desktop application that allows users to explore, read, and interact with folktales, myths, legends, and stories from cultures around the world. Inspired by platforms such as Kindle and Wattpad, the application combines digital reading tools with personalized recommendations, story discovery, and community-driven features. 
 
 ### Technologies
-
 - Java
 - Java Swing
 - Java AWT
@@ -21,11 +19,9 @@ MintLeaf is a desktop application that allows users to explore, read, and intera
 ---
 
 ## Project Overview
-
 MintLeaf was designed to promote cultural literacy by providing readers access to stories from diverse regions and traditions around the world. The application combines e-book functionality, library organization tools, personalized recommendations, and collaborative community features into a unified desktop platform. 
 
 ### Core Goals
-
 - Promote cultural awareness through storytelling
 - Create an engaging digital reading experience
 - Provide personalized story recommendations
@@ -35,11 +31,9 @@ MintLeaf was designed to promote cultural literacy by providing readers access t
 ---
 
 ## User Authentication System
-
 Users can create accounts, save preferences, and securely log into the platform.
 
 ### Features
-
 - User registration
 - Account login
 - User profile management
@@ -48,7 +42,6 @@ Users can create accounts, save preferences, and securely log into the platform.
 - Persistent database storage
 
 ### Skills Demonstrated
-
 - Database Integration
 - JDBC Connectivity
 - SQL Queries
@@ -57,7 +50,6 @@ Users can create accounts, save preferences, and securely log into the platform.
 - Input Validation
 
 ### Key Files
-
 - `LoginPage.java`
 - `SignupPage.java`
 - `User.java`
@@ -65,11 +57,9 @@ Users can create accounts, save preferences, and securely log into the platform.
 ---
 
 ## Story Discovery and Library System
-
 The library allows users to browse and discover stories through search and filtering tools.
 
 ### Features
-
 - Story title search
 - Genre filtering
 - Region filtering
@@ -79,7 +69,6 @@ The library allows users to browse and discover stories through search and filte
 - Personalized homepage recommendations
 
 ### Skills Demonstrated
-
 - Searching Algorithms
 - Dynamic Query Construction
 - Data Filtering
@@ -87,7 +76,6 @@ The library allows users to browse and discover stories through search and filte
 - User Experience Design
 
 ### Key Files
-
 - `Homepage.java`
 - `Library.java`
 - `filterSearch.java`
@@ -96,11 +84,9 @@ The library allows users to browse and discover stories through search and filte
 ---
 
 ## Recommendation Engine
-
 Users complete a recommendation survey which personalizes their reading experience.
 
 ### Features
-
 - Genre preference matching
 - Regional preference matching
 - Reading-length preferences
@@ -109,7 +95,6 @@ Users complete a recommendation survey which personalizes their reading experien
 - Personalized story ordering
 
 ### Skills Demonstrated
-
 - Binary Trees
 - Data Structures
 - Tree Traversal
@@ -117,18 +102,15 @@ Users complete a recommendation survey which personalizes their reading experien
 - User Preference Systems
 
 ### Key Files
-
 - `RecommendationQuiz.java`
 - `Community.java`
 
 ---
 
 ## Interactive Reading Features
-
 MintLeaf provides tools similar to modern e-book platforms.
 
 ### Features
-
 - Text highlighting
 - Custom highlight colors
 - Annotations and notes
@@ -139,7 +121,6 @@ MintLeaf provides tools similar to modern e-book platforms.
 - Story ratings
 
 ### Skills Demonstrated
-
 - GUI Development
 - Event Handling
 - Rich Text Processing
@@ -147,7 +128,6 @@ MintLeaf provides tools similar to modern e-book platforms.
 - Application State Management
 
 ### Key Files
-
 - `StoryInteraction.java`
 - `Annotations.java`
 - `Highlights.java`
@@ -157,35 +137,29 @@ MintLeaf provides tools similar to modern e-book platforms.
 ---
 
 ## Translation System
-
 Stories can be viewed in both English and their original language.
 
 ### Features
-
 - Language switching
 - Original-text viewing
 - Reader-friendly translation controls
 - Scroll-position preservation during translation
 
 ### Skills Demonstrated
-
 - File Management
 - User Interface Design
 - Content Management
 - State Preservation
 
 ### Key Files
-
 - `Translator.java`
 
 ---
 
 ## Community Features
-
 MintLeaf encourages community engagement and user participation.
 
 ### Features
-
 - Story ratings
 - Story reporting
 - Story suggestions
@@ -194,25 +168,21 @@ MintLeaf encourages community engagement and user participation.
 - Personalized experiences
 
 ### Skills Demonstrated
-
 - Database Integration
 - User Feedback Systems
 - Data Collection
 - Community Platform Design
 
 ### Key Files
-
 - `Community.java`
 - `ProfilePage.java`
 
 ---
 
 ## Database Architecture
-
 The application uses a MySQL database to manage user and story information.
 
 ### Stored Information
-
 - User accounts
 - Passwords
 - Reading preferences
@@ -223,7 +193,6 @@ The application uses a MySQL database to manage user and story information.
 - Recommendation information
 
 ### Skills Demonstrated
-
 - Relational Databases
 - MySQL
 - JDBC
@@ -233,11 +202,9 @@ The application uses a MySQL database to manage user and story information.
 ---
 
 ## Development Process
-
 MintLeaf was developed using a structured software engineering process.
 
 ### Project Activities
-
 - Brainstorming and market analysis
 - Questionnaire creation and analysis
 - Requirements gathering
@@ -250,7 +217,6 @@ MintLeaf was developed using a structured software engineering process.
 - Database design
 
 ### Skills Demonstrated
-
 - Software Development Lifecycle (SDLC)
 - Agile Team Collaboration
 - Requirements Analysis
@@ -259,7 +225,6 @@ MintLeaf was developed using a structured software engineering process.
 - Project Planning
 
 ### Team Members
-
 - Fardin Abbassi
 - Javiera Garrido Bravo
 - Victor Kosarev
@@ -270,9 +235,7 @@ MintLeaf was developed using a structured software engineering process.
 ---
 
 # Key Learning Outcomes
-
 Throughout this project I gained experience with:
-
 - Java GUI Development
 - Database Design and Management
 - MySQL and JDBC
@@ -291,9 +254,7 @@ Throughout this project I gained experience with:
 ---
 
 ## Future Improvements
-
 Potential future enhancements include:
-
 - JavaFX-based interface redesign
 - Password hashing and improved security
 - Full bookshelf management system
@@ -310,7 +271,6 @@ Potential future enhancements include:
 ---
 
 ## Repository Structure
-
 ```text
 MintLeaf/
 ├── LoginPage.java
@@ -335,5 +295,4 @@ MintLeaf/
 ---
 
 ## Portfolio Summary
-
 Co-developed a Java desktop application that allows users to explore stories from around the world using personalized recommendations, database-backed user accounts, search and filtering systems, multilingual reading tools, annotations, ratings, and community features. Implemented Java Swing interfaces, MySQL database integration, binary-tree recommendation structures, and collaborative software engineering practices throughout the development lifecycle. 
